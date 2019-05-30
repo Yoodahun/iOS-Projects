@@ -3,7 +3,7 @@ iOS Project using Swift that I studied
 
 
 
-### 1. [Swift Language](/Swift Language)
+### 1. Swift Language
 
 기본적인 `Swift`  의 문법을 공부했습니다.
 
@@ -11,7 +11,7 @@ iOS Project using Swift that I studied
 
 
 
-### 2. [Udemy Complete iOS App Development Bootcamp](/Udemy Complete iOS App Development Bootcamp )
+### 2. Udemy Complete iOS App Development Bootcamp
 
 `Udemy`의 강의를 보고 따라 만든 앱들입니다.
 
